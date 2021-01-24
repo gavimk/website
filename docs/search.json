@@ -6,20 +6,20 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-23T20:21:28-08:00"
+      "last_modified": "2021-01-23T20:25:07-08:00"
     },
     {
       "path": "blog.html",
       "author": [],
       "contents": "\ntitle: “Blog” # any name you want here listing: posts # do this exactly\n\n\n\n",
-      "last_modified": "2021-01-23T20:21:29-08:00"
+      "last_modified": "2021-01-23T20:25:08-08:00"
     },
     {
       "path": "index.html",
       "title": "Gavriella Keyles",
       "author": [],
       "contents": "\n\n          \n      \n      gk\n      \n      \n      Home\n      About\n      Blog\n      ☰\n      \n      \n      \n        \n          \n            Gavriella Keyles\n          \n          \n            \n              Hi! I’m Gavi. I’m a New Jersey native living in California. Planet problems are people problems. I’m here to work for an environment that is more livable, equitable, and accessible to all. Let’s work together!\n            \n            \n              Hi! I’m Gavi. I’m a New Jersey native living in California. Planet problems are people problems. I’m here to work for an environment that is more livable, equitable, and accessible to all. Let’s work together!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-01-23T20:21:29-08:00"
+      "last_modified": "2021-01-23T20:25:09-08:00"
     }
   ],
   "collections": ["posts/posts.json"]
