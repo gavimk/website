@@ -1,0 +1,14 @@
+---
+title: "Gavriella Keyles"
+image: "me.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/gavik"
+  - label: Email
+    url: "mailto:gavi.keyles@gmail.com"
+output:
+  postcards::jolla_blue
+site: distill::distill_website
+---
+ 
+Hi! I'm Gavi. I'm a New Jersey native living in California. Planet problems are people problems. I'm here to work for an environment that is more livable, equitable, and accessible to all. Let's work together!
